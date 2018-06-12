@@ -1,0 +1,2 @@
+CRA: sh -c "cd client; yarn start"
+express: yarn run dev
